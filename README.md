@@ -5,7 +5,7 @@ This repository is part of the MuttData challenge, solved by me.
 **(1)** In your terminal, type:
 
 ```
-git clone https://github.com/mutt-data-exams/Carla--de-Erausquin.git
+git clone https://github.com/deercarla/muttdata-tech-interview.git
 ```
 
 Or you can download GitHub desktop and clone the repository using the UI tools.
